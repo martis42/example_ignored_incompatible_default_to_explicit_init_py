@@ -1,0 +1,2 @@
+# example_ignored_incompatible_default_to_explicit_init_py
+Reproducing a bug in Bazel
